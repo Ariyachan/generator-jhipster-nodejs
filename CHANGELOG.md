@@ -2,17 +2,15 @@
 
 ## [4.3.0](https://github.com/jhipster/generator-jhipster-nodejs/compare/v4.2.0...v4.3.0) (2026-10-09)
 
-
 ### Features
 
-* **node-server:** enable TypeScript strict mode in the generated server ([#1419](https://github.com/jhipster/generator-jhipster-nodejs/issues/1419)) ([1a3e4df](https://github.com/jhipster/generator-jhipster-nodejs/commit/1a3e4dfaa52ceb6c68c13ecded01f06dc9e3e3a5))
-* **node-server:** generate the Eureka and cloud config client only with Eureka service discovery ([#1420](https://github.com/jhipster/generator-jhipster-nodejs/issues/1420)) ([11aadd6](https://github.com/jhipster/generator-jhipster-nodejs/commit/11aadd67d710269a42917a469f22087f8b64ddbb))
-
+- **node-server:** enable TypeScript strict mode in the generated server ([#1419](https://github.com/jhipster/generator-jhipster-nodejs/issues/1419)) ([1a3e4df](https://github.com/jhipster/generator-jhipster-nodejs/commit/1a3e4dfaa52ceb6c68c13ecded01f06dc9e3e3a5))
+- **node-server:** generate the Eureka and cloud config client only with Eureka service discovery ([#1420](https://github.com/jhipster/generator-jhipster-nodejs/issues/1420)) ([11aadd6](https://github.com/jhipster/generator-jhipster-nodejs/commit/11aadd67d710269a42917a469f22087f8b64ddbb))
 
 ### Bug Fixes
 
-* **node-server:** dependencies and scripts of the generated package.json files ([#1428](https://github.com/jhipster/generator-jhipster-nodejs/issues/1428)) ([0dbebc1](https://github.com/jhipster/generator-jhipster-nodejs/commit/0dbebc107e72ac22179d8ba9625d02416e0763f1))
-* **node-server:** generate JWT applications without built-in User ([#1421](https://github.com/jhipster/generator-jhipster-nodejs/issues/1421)) ([3e6435f](https://github.com/jhipster/generator-jhipster-nodejs/commit/3e6435fcbbf44830bcb38129320eae93e3b8191c))
+- **node-server:** dependencies and scripts of the generated package.json files ([#1428](https://github.com/jhipster/generator-jhipster-nodejs/issues/1428)) ([0dbebc1](https://github.com/jhipster/generator-jhipster-nodejs/commit/0dbebc107e72ac22179d8ba9625d02416e0763f1))
+- **node-server:** generate JWT applications without built-in User ([#1421](https://github.com/jhipster/generator-jhipster-nodejs/issues/1421)) ([3e6435f](https://github.com/jhipster/generator-jhipster-nodejs/commit/3e6435fcbbf44830bcb38129320eae93e3b8191c))
 
 ## [4.2.0](https://github.com/jhipster/generator-jhipster-nodejs/compare/v4.1.0...v4.2.0) (2026-10-07)
 
